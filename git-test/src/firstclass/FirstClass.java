@@ -10,5 +10,6 @@ public class FirstClass {
     }
     public void demo(){
         System.out.println("admin");
+        System.out.println("1234856");
     }
 }
